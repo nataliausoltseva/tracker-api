@@ -1,0 +1,14 @@
+C:\Users\usoln\source\repos\Tracker\bin\Debug\netcoreapp2.2\Tracker.deps.json
+C:\Users\usoln\source\repos\Tracker\bin\Debug\netcoreapp2.2\Tracker.runtimeconfig.json
+C:\Users\usoln\source\repos\Tracker\bin\Debug\netcoreapp2.2\Tracker.runtimeconfig.dev.json
+C:\Users\usoln\source\repos\Tracker\bin\Debug\netcoreapp2.2\Tracker.dll
+C:\Users\usoln\source\repos\Tracker\bin\Debug\netcoreapp2.2\Tracker.pdb
+C:\Users\usoln\source\repos\Tracker\obj\Debug\netcoreapp2.2\Tracker.csprojAssemblyReference.cache
+C:\Users\usoln\source\repos\Tracker\obj\Debug\netcoreapp2.2\Tracker.csproj.CoreCompileInputs.cache
+C:\Users\usoln\source\repos\Tracker\obj\Debug\netcoreapp2.2\Tracker.RazorAssemblyInfo.cache
+C:\Users\usoln\source\repos\Tracker\obj\Debug\netcoreapp2.2\Tracker.RazorAssemblyInfo.cs
+C:\Users\usoln\source\repos\Tracker\obj\Debug\netcoreapp2.2\Tracker.AssemblyInfoInputs.cache
+C:\Users\usoln\source\repos\Tracker\obj\Debug\netcoreapp2.2\Tracker.AssemblyInfo.cs
+C:\Users\usoln\source\repos\Tracker\obj\Debug\netcoreapp2.2\Tracker.RazorTargetAssemblyInfo.cache
+C:\Users\usoln\source\repos\Tracker\obj\Debug\netcoreapp2.2\Tracker.dll
+C:\Users\usoln\source\repos\Tracker\obj\Debug\netcoreapp2.2\Tracker.pdb
